@@ -1,0 +1,7 @@
+{
+  "Server": "localhost",
+  "Port": "3306",
+  "Database": "cnc_calc",
+  "User": "root",
+  "Password": ""
+}
